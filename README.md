@@ -42,6 +42,7 @@ The script has a step-by-step guidance for this training.
 
 **Environment details:**
 - Databricks Runtime Version 6.4 *(includes Apache Spark 2.4.5, Scala 2.11)*
+- Driver: Standard_F4s | Workers: 1xStandard_F4s
 - Other PyPI installed packages: `azure-cognitiveservices-vision-customvision==1.0.0`
 
 For training the classification model, execute this following script on an Azure Databricks environment.
