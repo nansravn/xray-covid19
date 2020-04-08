@@ -36,7 +36,7 @@ All the images were converted to .PNG and, if needed, resized to assure they wer
 
 ## Training the Classification Model
 
-For training the classification model, execute this following script on an Azure Databricks environment.
+For training the classification model, execute [this script](./covid19xray-custom-vision.ipynb) on an Azure Databricks environment.
 
 The script has a step-by-step guidance for this training.
 
